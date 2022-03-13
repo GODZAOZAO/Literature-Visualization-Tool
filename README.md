@@ -1,4 +1,8 @@
-# LitVis Final Project
+<div>
+<img width = "100%" align="center" alt="PIC" height="200px" src="https://www.linkpicture.com/q/d3_js_topic.png" />
+<div/>
+  
+# Literature Visualization Tool
 A visualization tool that allow users to organize **1591** of papers by score, frequency, and year. The interactive visualizations makes literature review much more efficient due to its many functionalities.
 
 https://observablehq.com/d/94783b7756ead148@3099
