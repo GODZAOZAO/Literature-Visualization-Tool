@@ -42,8 +42,19 @@ main.value("foo").then(value => console.log(value));
 * Data Cleaning - Used Python for data preprocessing on Google Colaboratory (preprocess_dataset_shao.ipynb)
   - Inner join three different datasets and remove data rows with null value
   - Extract data from .json file and reorganize it
-* Literature Review - Easy to know the performance of thousands of AI papers
+* Literature Review 
+  - Easy to know the performance of thousands of AI papers
 * Research Trend - Easy to know the research topics in each year
 * Zoom in and out to prevent data overlap
 * Filters for folds, tasks, metrics, datasets, models and can be applied based on user preferences
   - There are 11 folds, 56 tasks, 88 metrics, 245 datasets, 393 models
+* Mouse Hover
+  - Display paper details by hovering over the data
+* Y scale varies with filtered data for a better data visualization
+  
+## Results
+<p align="center">
+  <img width="80%" height="400" src="https://www.linkpicture.com/q/score_vs_year.png">
+  <img width="80%" height="400" src="https://www.linkpicture.com/q/freq_vs_year.png">
+</p>
+
