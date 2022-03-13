@@ -1,0 +1,14 @@
+{
+  "name": "94783b7756ead148",
+  "main": "94783b7756ead148@3099.js",
+  "version": "3099.0.0",
+  "homepage": "https://observablehq.com/d/94783b7756ead148",
+  "author": {
+    "name": "Shao-Chun Wang",
+    "url": "https://observablehq.com/@30d1eb4347bf7153"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
