@@ -3,6 +3,7 @@ A visualization tool that allow users to organize papers by score, frequency, an
 
 https://observablehq.com/d/94783b7756ead148@3099
 
+## Getting Started
 View this notebook in your browser by running a web server in this folder. For
 example:
 
