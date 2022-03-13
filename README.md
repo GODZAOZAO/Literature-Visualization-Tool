@@ -1,5 +1,5 @@
 # LitVis Final Project
-A visualization tool that allow users to organize papers by score, frequency, and year. The interactive visualizations makes literature review much more efficient due to its many functionalities. Though the visualizations in this project are more specific to AI and machine learning, the visualizations can be loaded with any data of any field.
+A visualization tool that allow users to organize papers by score, frequency, and year. The interactive visualizations makes literature review much more efficient due to its many functionalities.
 
 https://observablehq.com/d/94783b7756ead148@3099
 
