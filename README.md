@@ -35,7 +35,7 @@ main.value("foo").then(value => console.log(value));
 ~~~
 
 ## Key Features
-* Data Cleaning - Used Python for data preprocessing
+* Data Cleaning - Used Python for data preprocessing on Google Colaboratory (preprocess_dataset_shao.ipynb)
   - Inner join three different datasets and remove data rows with null value
   - Extract data from .json file and reorganize it
 * Literature Review - Easy to know the performance of thousands of AI papers
